@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RequestPermissionDemo</string>
+
+    <string name="permission_application">权限申请</string>
+    <string name="permission_description">当前应用需要读取手机状态的权限!</string>
+    <string name="permission_allow">去允许</string>
+    <string name="permission_open">去打开</string>
+</resources>
